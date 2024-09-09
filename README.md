@@ -1,5 +1,4 @@
-# 
-Eduardo-zap-gpt
+## Eduardo-zap-gpt
 
 **Eduardo-zap-gpt** é um assistente virtual amigável e descontraído, projetado para oferecer suporte e responder perguntas de maneira simpática e informal. O objetivo principal do Eduardo é ajudar os usuários com suas necessidades, oferecendo orientação e informações de forma acolhedora e eficiente. 
 
